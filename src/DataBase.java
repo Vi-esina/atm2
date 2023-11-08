@@ -1,10 +1,10 @@
-package atm;
+package atm.src;
 
 import javax.security.auth.login.AccountNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static atm.Menu.*;
+import static atm.src.Menu.*;
 
 public class DataBase {
     private static List<Account> accounts;

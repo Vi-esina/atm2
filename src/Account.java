@@ -1,7 +1,5 @@
-package atm;
+package atm.src;
 
-
-import static atm.Menu.choose;
 
 public class Account {
     private String email;

@@ -1,10 +1,10 @@
-package atm;
+package atm.src;
 import javax.security.auth.login.AccountNotFoundException;
 import java.util.*;
 import java.time.LocalDateTime;
 
-import static atm.Menu.foreignCurrency;
-import static atm.Menu.language;
+import static atm.src.Menu.foreignCurrency;
+import static atm.src.Menu.language;
 
 public class Service {
 

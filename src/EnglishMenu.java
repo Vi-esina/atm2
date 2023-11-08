@@ -1,4 +1,4 @@
-package atm;
+package atm.src;
 
 public class EnglishMenu implements Language{
     @Override

@@ -1,8 +1,6 @@
-package atm;
-import java.util.Currency;
+package atm.src;
 import java.util.Scanner;
-import java.util.Timer;
-import java.util.TimerTask;
+
 public class Menu {
 private static Scanner scanner;
     public static ForeignCurrency foreignCurrency;

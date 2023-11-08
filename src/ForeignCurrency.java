@@ -1,4 +1,4 @@
-package atm;
+package atm.src;
 
 public enum ForeignCurrency {
     USD("USD", 0.31),

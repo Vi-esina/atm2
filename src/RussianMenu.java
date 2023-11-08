@@ -1,4 +1,4 @@
-package atm;
+package atm.src;
 
 public class RussianMenu implements Language{
     @Override

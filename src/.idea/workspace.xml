@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dd0d7d9-650c-4781-9aaf-f08d9a6fe67d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnglishMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/EnglishMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForeignCurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/ForeignCurrency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/Language.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RussianMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/RussianMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Transaction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2XswTr2EgnWoTTTqVYOJHPPsudn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Kandy/IdeaProjects/lessonProject/src/atm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dd0d7d9-650c-4781-9aaf-f08d9a6fe67d" name="Changes" comment="" />
+      <created>1699431105532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699431105532</updated>
+      <workItem from="1699431106531" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
